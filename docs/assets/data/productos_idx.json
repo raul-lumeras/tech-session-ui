@@ -1,0 +1,38 @@
+[
+    {
+      "cod":"prod-1",
+      "url": "project-1",
+      "titulo":"Conocer la APP",
+      "categoria":"UI - FE"
+    },
+    {
+      "cod":"prod-2",
+      "url":"project-2",
+      "titulo":"El Playground",
+      "categoria":"UI - FE"
+    },
+    {
+      "cod":"prod-3",
+      "url":"project-3",
+      "titulo":"Código antiguo",
+      "categoria":"UI - FE"
+    },
+    {
+      "cod":"prod-4",
+      "url":"project-4",
+      "titulo":"Extra 1 - On the fly!",
+      "categoria":"UI - FE"
+    },
+    {
+      "cod":"prod-5",
+      "url":"project-5",
+      "titulo":"Extra 2 - Cui separator VS margin",
+      "categoria":"UI - FE"
+    },
+    {
+      "cod":"prod-6",
+      "url":"project-6",
+      "titulo":"Exrtra 3 - El componetizador de lo descomponetice bue....",
+      "categoria":"FE - UI"
+    }
+]

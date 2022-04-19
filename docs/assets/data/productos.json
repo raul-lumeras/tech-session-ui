@@ -1,0 +1,52 @@
+{
+	"prod-1":{
+		"producto": "Conocer la APP",
+        "categoria": "UI - FE",
+        "subtitulo1": "Hay que ver más allá",
+        "desc1": "La app consta de multiples apartados, que a la vez son diferentes proyectos. Lo ideal es tener un conocimiento completo de la app, o lo mas extenso posible. Por eso a pesar de lo complicado que es que nuestro día a día, lo ideal sería poder investigar más allá de nuestros propios desarrollos, por eso también la importancia de estas sesiones, en especial el significado que pudo tener la sesión pasada donde pudimos ver el comportamiento total de la seccion de cards, pese a no haberla desarrollado.",
+        "subtitulo2": "Y para ello está la ayuda de UI",
+        "desc2": "Con lo extensa que es esta app es normal que todo desarrollo esté separado por equipos, y al igual que pasa con UI y nuestras herramientas, el css básicamente, a la hora de programar se pueden hacer las cosas de manera diferente. ¿Lo que más me gustaría? poder unificar todos los criterios y elementos, seguramente a estas aluturas ya todo lo que tengamos que desarrollar, a nivel visual claro, ya esté hecho en alguna otra parte de la app, solo hay que encontrarlo.",
+        "resumen": "La app consta de multiples apartados, que a la vez son diferentes proyectos. Lo ideal es tener un conocimiento completo de la app, o lo mas extenso posible. Por eso a pesar de lo complicado que es que nuestro día a día, lo ideal sería poder investigar más allá de nuestros propios desarrollos, por eso también la importancia de estas sesiones, en especial el significado que pudo tener la sesión pasada donde pudimos ver el comportamiento total de la seccion de cards, pese a no haberla desarrollado."
+	},
+	"prod-2":{
+		"producto": "El Playground",
+    "categoria": "UI - FE",
+    "subtitulo1": "Como la biblia, pero sin ciencia ficción",
+    "desc1": "Todos lo sabemos todos, en el Playground - CLX está todo. básicamente una de nuestras principales tareas es la de mantener el plaayground clx actualizado con las últimas especificaciones de diseño. Para eso trás cada fase nueva de diseño, o cambio notificado, actualizamos nuestro repositorio, para que en el momento de que se inicien los desarrollos, desde FE se pueda disponer de todo lo necesario.",
+    "subtitulo2": "Si no lo encuentras pregunta",
+    "desc2": "En cuanto a este aspecto siempre funcionamos igual, nuestra base de datos de componentes está igualada con la última versión del componente que FE necesitará, pero como sabemos hay veces que se necesitan tanto pequeñas variaciones de los mismos como componentes totalmente nuevos, esto sobre todo pasa en el momento de iniciar una fase nueva de diseño. En tal caso el procedimiento siempre es pedirlo desde FE, nosotros evaluamos y en función de lo que veamos creamos el nuevo componente y lo añadimos al playground para que podais cogerlo y adaptarlo a vuestro desarrollo.",
+    "resumen": "Todos lo sabemos todos, en el Playground - CLX está todo. básicamente una de nuestras principales tareas es la de mantener el plaayground clx actualizado con las últimas especificaciones de diseño. Para eso trás cada fase nueva de diseño, o cambio notificado, actualizamos nuestro repositorio, para que en el momento de que se inicien los desarrollos, desde FE se pueda disponer de todo lo necesario."
+	},
+	"prod-3":{
+		"producto": "Código antiguo",
+    "categoria": "UI - FE",
+    "subtitulo1": "Forget DV please",
+    "desc1": "Ya hace mucho, ni siquiera estaba yo en el equipo, que dejamos atrás DV, pese a ello en ocasiones hemos encontrado muchas vistas que siguen estando desarrolladas con código antiguo. Para agilizar el proceso de cambio, ya que por un tiempo tubieron que convivir ambos desarrollos se optó por crear una clase modificadora que permitirera la actualización de los componentes para poder implementar los nuevos cambios, la famosa --SNBRED. Y aunque ahora no es tendencia, ya nos hemos librado de mucho, muchas de las peticiones recibidas eran similares a: 'Esto no se me ve igual que en el Playground'. El 95% de las veces/ incidencias se resolvian añadiendo la clase --SNBRED en el componente de FE.",
+    "subtitulo2": "Vista de un desarrollo actual con código antiguo",
+    "desc2": "Una de las tareas que tenemos pendientes desde hace semanas es la retirada de código y archivos de configuración que dan soporte al código antiguo. Es un proceso largo y complejo ya que para retirar el código de cada componente debemos asegurarnos de que no incedirá en el normal funcionamiento visual de la app.",
+    "resumen": "Ya hace mucho, ni siquiera estaba yo en el equipo, que dejamos atrás DV, pese a ello en ocasiones hemos encontrado muchas vistas que siguen estando desarrolladas con código antiguo. Para agilizar el proceso de cambio, ya que por un tiempo tubieron que convivir ambos desarrollos se optó por crear una clase modificadora que permitirera la actualización de los componentes para poder implementar los nuevos cambios, la famosa --SNBRED. Y aunque ahora no es tendencia, ya nos hemos librado de mucho, muchas de las peticiones recibidas eran similares a: 'Esto no se me ve igual que en el Playground'. El 95% de las veces/ incidencias se resolvian añadiendo la clase --SNBRED en el componente de FE."
+	},
+	"prod-4":{
+		"producto": "Extra 1 - trucos",
+    "categoria": "UI - FE",
+    "subtitulo1": "On the fly!",
+    "desc1": "A parte del desarrollo de nuevos componentes, mantenimiento del Playground, dar soporte en la creación de componentes, resolución de issues y dudas, otra de nuestras tareas es la revisión visual de los desarrollos frente a figma. Si el playground es nuestra biblia, el Figma es la de diseño y la del cliente final, es decir, el cliente se basará en el figma de FA para ver si lo desarrollado cuadra con lo diseñado.",
+    "desc2": "En estas revisiones lo que mas hemos podido apreciar han sido pequeños errores de margenes, tipografia, interlineado y en menor medida de colores. Pero los 'errores' visuales más destacados suelen ser más destaclables en elementos que se cargan on the fly. Si un elemento viene vacio en función del contenido no debería incorporar ni margenes ni paddings, lo ideal sería incorporar estos espaciados sobre los elementos que se cargan nuevos, como en la pantalla del login nueva.",
+    "resumen": "A parte del desarrollo de nuevos componentes, mantenimiento del Playground, dar soporte en la creación de componentes, resolución de issues y dudas, otra de nuestras tareas es la revisión visual de los desarrollos frente a figma. Si el playground es nuestra biblia, el Figma es la de diseño y la del cliente final, es decir, el cliente se basará en el figma de FA para ver si lo desarrollado cuadra con lo diseñado."
+	},
+	"prod-5":{
+		"producto": "Extra 2 - Forget cui separator",
+    "categoria": "UI - FE",
+    "subtitulo1": "Cui separator VS margin",
+    "desc1": "La verdad que al igual que en código antiguo la tendencia a usar este elemento está a la baja, pero aún hay desarrollos que lo incluyen. La verdad que utilizar capas que permitan un espaciado entre otras capas estaba muy bien.... en 199... Claro Gorka no sabe de lo que hablamos porque nació en el 1995, pero Gorka es bueno, Gorka no usa cui-separator... sé como Gorka.",
+    "desc2": "Actualmente con lo desarrollado en la app tenemos permiten prescindir al 100% de estos elementos de maquetación. En un proyecto como este en el que además de lo desarrollado en el playground tenemos la capacidad de añadir clases on demand en la propia vista no hay necesidad de 'ensuciar' la maquetación con elementos vacios que solo crean espacio separador, recordad que tenemos un archivo con todos los margenes posibles especificados en función de las variables de espaciado que tenemos, y si lo necesario no se refleja a lo necesitado siempre se puede añadir una clase nueva.",
+    "resumen": "La verdad que al igual que en código antiguo la tendencia a usar este elemento está a la baja, pero aún hay desarrollos que lo incluyen. La verdad que utilizar capas que permitan un espaciado entre otras capas estaba muy bien.... en 199... Claro Gorka no sabe de lo que hablamos porque nació en el 1995, pero Gorka es bueno, Gorka no usa cui-separator... sé como Gorka."
+	},
+	"prod-6":{
+		"producto": "Extra 3 - Componetizar un componente ya componetizado",
+    "categoria": "FE - UI",
+    "subtitulo1": "El componetizador de lo descomponetice bue.......",
+    "desc1": "Muchas veces, quizás para ahorrar código o para clarificar la vista de un desarrollo que incluye multitud de componentes se opta por crear un nuevo componente a partir del código del mismo, por encapsularlo. Esto es genial, solo que a veces si nuestros desarrollos interfieren en este componente que cuesta de encontrar, el flujo puede ser diferente, en estos casos son los que UI pedirá que un FE lo pueda mirar conjuntamente. Asimismo sin dejar de ser lo más importante en un proyecto como este es que en todo momento se tiene que tener en cuenta la cantidad de vistas diferentes en las que tendrá incidencia el componente que estemos tratando en cada momento.",
+    "resumen": "Muchas veces, quizás para ahorrar código o para clarificar la vista de un desarrollo que incluye multitud de componentes se opta por crear un nuevo componente a partir del código del mismo, por encapsularlo. Esto es genial, solo que a veces si nuestros desarrollos interfieren en este componente que cuesta de encontrar, el flujo puede ser diferente, en estos casos son los que UI pedirá que un FE lo pueda mirar conjuntamente. Asimismo sin dejar de ser lo más importante en un proyecto como este es que en todo momento se tiene que tener en cuenta la cantidad de vistas diferentes en las que tendrá incidencia el componente que estemos tratando en cada momento."
+	}
+}
